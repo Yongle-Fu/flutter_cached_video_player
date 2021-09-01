@@ -1,3 +1,7 @@
+#
+## 2.0.1 - [2021-09-01]
+refactor: rename class prefix from FLT to Cached
+
 ## 1.0.0
 
 Initial Release
